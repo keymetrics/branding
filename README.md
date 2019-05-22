@@ -1,8 +1,8 @@
 # app.pm2.io features screenshots
 
-## Optimize PNG size
+## Optimize PNG size of screenshots
 
 ```bash
 sudo apt-get install optipng
-optipng -o2 -strip all *.png
+npm run opti
 ```
