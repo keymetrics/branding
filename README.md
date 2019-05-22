@@ -1,4 +1,8 @@
-# Keymetrics branding
+# app.pm2.io features screenshots
 
-This repo is used to store all branding data about Keymetrics or PM2.
+## Optimize PNG size
 
+```bash
+sudo apt-get install optipng
+optipng -o2 -strip all *.png
+```
