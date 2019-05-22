@@ -6,3 +6,8 @@
 sudo apt-get install optipng
 npm run opti
 ```
+
+## Guidelines to add a screenshot
+
+- Only screen the inner page without navigation
+- Optimize image size with `npm run opti`
